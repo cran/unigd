@@ -1,3 +1,8 @@
+# unigd 0.1.3
+
+- Added missing standard library include for GCC 15.
+- Drop 'C++14' requirement.
+
 # unigd 0.1.2
 
 - Fixed an issue that made unigd crash when rendering without any plots in the history on some platforms.
